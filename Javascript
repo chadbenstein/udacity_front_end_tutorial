@@ -316,4 +316,15 @@ for(var x=9; x>=1; x--) {
     
 }
 
+/*
+ * Programming Quiz: Factorials (4-7)
+ */
+factorial = 1
+for(var x = 12; x>0; x--) {
+    factorial *= x ;
+}
+
+solution = factorial
+console.log(solution)
+// your code goes here
 
