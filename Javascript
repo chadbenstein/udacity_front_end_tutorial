@@ -346,3 +346,9 @@ for(var row=0; row < 26; row++){
     }
 }
 // Write your code here
+
+
+function laugh(){
+    return "hahahahahahahahahaha!"
+}
+console.log(laugh());
